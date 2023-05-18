@@ -1,7 +1,9 @@
 # app-dev
 My first repository
-# **GAP The Series**
+
 ![GAP the Novel -  Front Cover](C:\Users\ADMIN\Documents\GAP the Novel -  Front Cover.jpg)
+
+# **GAP The Series**
 [GAP the Series](https://youtu.be/f7Kso0QOaiE)
 
 >Mon is an idol of Sam, and when they meet again at the office, she is surprised by her icy exterior. They are different in class and age, with a gap of eight years between them. Mon is an idol of Sam, and when they meet again at the office, she is surprised by her icy exterior.
@@ -12,7 +14,9 @@ My first repository
 - Becky Rebecca Patricia Armstrong as Mon
 # Main Character Best Line
 "Everybody wants to be loved and everybody wants to be inlove." -Sam
-"Don't be afraid. We'll definitely get through this. You have my word." -Mo
+
+"Don't be afraid. We'll definitely get through this. You have my word." -Mon
+
 # Suporting Actress/Actor
 | **Name of Artist**            | **Character/Role** | 
 | :---                          |    :----:      |  
