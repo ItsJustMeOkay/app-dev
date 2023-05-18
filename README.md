@@ -2,10 +2,9 @@
 My first repository
 
 # **GAP The Series**
-![GAP the Novel -  Front Cover](https://i.mydramalist.com/REg3z_4f.jpg)
+![GAP the Series](https://forum.novelupdates.com/attachments/5e3126af-81fb-4522-ac4c-104aa5eb5567-jpeg.70723/)
 
-*To watch the trailer click the link below
-(https://youtu.be/f7Kso0QOaiE)
+*To watch the trailer click the link: (https://youtu.be/f7Kso0QOaiE)
 
 >Mon is an idol of Sam, and when they meet again at the office, she is surprised by her icy exterior. They are different in class and age, with a gap of eight years between them. Mon is an idol of Sam, and when they meet again at the office, she is surprised by her icy exterior.
 
