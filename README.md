@@ -3,7 +3,6 @@ My first repository
 # **GAP The Series**
 ![GAP the Novel -  Front Cover](C:\Users\ADMIN\Documents\GAP the Novel -  Front Cover.jpg)
 [GAP the Series](https://youtu.be/f7Kso0QOaiE)
-	---
 
 >Mon is an idol of Sam, and when they meet again at the office, she is surprised by her icy exterior. They are different in class and age, with a gap of eight years between them. Mon is an idol of Sam, and when they meet again at the office, she is surprised by her icy exterior.
 
@@ -11,11 +10,10 @@ My first repository
 # Main Characters
 - Freen Sarocha Chankimha as Khun Sam
 - Becky Rebecca Patricia Armstrong as Mon
-# Character Best Line
-==Everybody wants to be loved and everybody wants to be inlove.-Sam==
-
-==Don't be afraid. We'll definitely get through this. You have my word.-Mon==
-
+# Main Character Best Line
+"Everybody wants to be loved and everybody wants to be inlove." -Sam
+"Don't be afraid. We'll definitely get through this. You have my word." -Mo
+# Suporting Actress/Actor
 | **Name of Artist**            | **Character/Role** | 
 | :---                          |    :----:      |  
 | Sawaros Nekkham               | Neung          |
@@ -33,5 +31,7 @@ My first repository
 4. Innocent
 
 <code>Yuri, Drama, Romantic Comedy</code>
+---
 ~~"Love is Love" If age doesn't matter then Love has no gender.~~
+---
 This series is worth the watch! :joy:
